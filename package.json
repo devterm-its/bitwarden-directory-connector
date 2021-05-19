@@ -219,7 +219,7 @@
     "ldapjs": "git+https://git@github.com/kspearrin/node-ldapjs.git",
     "lowdb": "1.0.0",
     "lunr": "2.3.3",
-    "node-fetch": "2.2.0",
+    "node-fetch": "2.6.1",
     "node-forge": "0.7.6",
     "rxjs": "6.3.3",
     "zone.js": "0.8.28"
